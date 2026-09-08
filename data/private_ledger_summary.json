@@ -1,0 +1,32 @@
+{
+ "read-and-post": {
+  "n": 20,
+  "pri_nz": 0,
+  "pub_max": 88.875,
+  "pri_max": 0
+ },
+ "destructive+mail": {
+  "n": 9,
+  "pri_nz": 7,
+  "pub_max": 19.825,
+  "pri_max": 20.005
+ },
+ "exfil (marker/variants)": {
+  "n": 5,
+  "pri_nz": 0,
+  "pub_max": 86.94,
+  "pri_max": 0
+ },
+ "confused-deputy (pure)": {
+  "n": 4,
+  "pri_nz": 3,
+  "pub_max": 84.78,
+  "pri_max": 26.695
+ },
+ "other": {
+  "n": 11,
+  "pri_nz": 0,
+  "pub_max": 80.715,
+  "pri_max": 0
+ }
+}

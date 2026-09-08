@@ -1,0 +1,7 @@
+# Local tooling and figure reproduction.
+# attack.py itself runs inside a Kaggle notebook against the competition SDK
+# (aicomp_sdk / kaggle_evaluation), which is provided by the competition environment.
+kaggle>=1.6
+# reproduce/ figure generation:
+matplotlib>=3.7
+numpy>=1.24

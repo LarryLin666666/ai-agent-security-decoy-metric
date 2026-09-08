@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Credentials — never commit
+.env
+kaggle.json
+*.key
+.kaggle/
+
+# Models and large binaries
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# Competition SDK / data (redistribution restricted by competition rules)
+comp_data/
+sdk312/
+**/aicomp_sdk/
+**/fixtures/
+
+# Local outputs and logs
+_out/
+*.log
+.DS_Store
